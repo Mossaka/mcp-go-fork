@@ -1,3 +1,5 @@
+//go:build !wasip2
+
 package server
 
 import (
